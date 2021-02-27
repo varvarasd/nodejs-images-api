@@ -1,33 +1,33 @@
 [{
-        "author": "author name",
-        "url": "./images/1.jpg"
+        "author": "image 1",
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/1.jpg"
     },
     {
-        "author": "author name",
-        "url": "./images/2.jpg"
+        "author": "image 2",
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/2.jpg"
     },
     {
-        "author": "author name",
-        "url": "./images/3.jpg"
+        "author": "image 3",
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/3.jpg"
     },
     {
-        "author": "author name",
-        "url": "./images/4.jpg"
+        "author": "image 4",
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/4.jpg"
     },
     {
-        "author": "author name",
-        "url": "./images/5.jpg"
+        "author": "image 5",
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/5.jpg"
     },
     {
-        "author": "author name",
-        "url": "./images/6.jpg"
+        "author": "image 6",
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/6.jpg"
     },
     {
-        "author": "author name",
-        "url": "./images/7.jpg"
+        "author": "image 7",
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/7.jpg"
     },
     {
-        "author": "author name",
-        "url": "./images/8.jpg"
+        "author": "image 8",
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/8.jpg"
     }
 ]
