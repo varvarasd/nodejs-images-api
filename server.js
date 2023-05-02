@@ -21,7 +21,7 @@ server.use('*', limiter);
 server.use(favicon(__dirname + '/favicon.ico'));
 
 server.use('*', (req, res, next) => {
-    if(req.headers.authorization !== process.env.ACCESS) {
+    if(!req.headers.authorization || req.headers.authorization !== process.env.ACCESS) {
         res.status(403).send('Not authorised').end()
     } else {
         next();
