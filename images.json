@@ -1,33 +1,33 @@
 [{
         "author": "image 1",
-        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/1.jpg"
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/c_scale,w_500/v1614426480/nodejs-images-api/1.jpg"
     },
     {
         "author": "image 2",
-        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/2.jpg"
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/c_scale,w_500/v1614426480/nodejs-images-api/2.jpg"
     },
     {
         "author": "image 3",
-        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/3.jpg"
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/c_scale,w_500/v1614426480/nodejs-images-api/3.jpg"
     },
     {
         "author": "image 4",
-        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/4.jpg"
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/c_scale,w_500/v1614426480/nodejs-images-api/4.jpg"
     },
     {
         "author": "image 5",
-        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/5.jpg"
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/c_scale,w_500/v1614426536/nodejs-images-api/5.jpg"
     },
     {
         "author": "image 6",
-        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/6.jpg"
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/c_scale,w_500/v1614426480/nodejs-images-api/6.jpg"
     },
     {
         "author": "image 7",
-        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/7.jpg"
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/c_scale,w_500/v1614426480/nodejs-images-api/7.jpg"
     },
     {
         "author": "image 8",
-        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/v1614417979/nodejs-images-api/8.jpg"
+        "url": "https://res.cloudinary.com/dmpruxdcn/image/upload/c_scale,w_500/v1614426480/nodejs-images-api/8.jpg"
     }
 ]
